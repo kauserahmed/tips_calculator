@@ -1,4 +1,4 @@
-# This tip calculator will calculate tip and divide them into friends or colleague.
+# This tip calculator will calculate tip and divide them into friends or colleague
 
 print("Welcome to the tip calculator.")
 bill = float(input("What was the total bill? $"))
